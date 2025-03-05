@@ -7,7 +7,6 @@
 ## 🔥 **About Me**
 - 💻 Developing **automotive software solutions & real-time vehicle applications**  
 - 🏎️ Interested in **ECUs, ADAS systems and networking protocols**
-- 🎓 **C++ Certified Associate Programmer (CPA)**
 - 🌍 Love **problem-solving and optimizing software for performance & security**  
 - 📚 Constantly learning new technologies and best practices  
 
@@ -26,6 +25,16 @@
 🔹 **Real-time Vehicle Server Simulation** – Developing high-performance simulation software
 
 🔹 **Research & Problem-Solving in Automotive Software** – Analyzing complex challenges in automotive software development, exploring innovative solutions for real-time performance improvements.  
+
+## 📊 **GitHub Stats**
+![Marroum's GitHub stats](https://github-readme-stats.vercel.app/api?username=maramraddaoui&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🌱 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maramraddaoui&theme=radical&layout=compact&langs_count=10)
+
+## 🏅 **Certifications & Achievements**
+![C++ Certified Associate Programmer](https://img.shields.io/badge/C%2B%2B-Certified%20Associate%20Programmer-blue?style=flat)
+![Scrum Fundamentals Certified - SFC](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-SFC-blue?style=flat)
 
 ## 📫 **Let's Connect!**
 💼 **LinkedIn**: [linkedin.com/in/raddaoui-maram](https://linkedin.com/in/raddaoui-maram)  
