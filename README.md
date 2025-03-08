@@ -1,3 +1,4 @@
+![alt text](banner.png?raw=true)
 # 👋 Hey there, I am Maram Raddaoui!  
 
 🚀 **Computer Science Engineer | Automotive Software Enthusiast**  
